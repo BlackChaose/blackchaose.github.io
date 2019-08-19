@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Create new page!!"
+title:  "added snippet's page!!!"
 date:   2019-08-19 16:50:00 +0300
 categories: news
 ---
