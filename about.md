@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-Engineer, system and network administrators, software developers and just a good man.
+Engineer, system and network administrator, software developer and just a good person.
